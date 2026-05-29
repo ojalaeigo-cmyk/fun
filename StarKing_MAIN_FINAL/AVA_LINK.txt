@@ -1,0 +1,20 @@
+STAR KING MAIN FINAL
+
+See on eraldi Star King põhiversioon, mitte LOVE MODE.
+
+GitHub:
+1. Paki ZIP lahti.
+2. Lae terve kaust StarKing_MAIN_FINAL repo kogut-hti alla.
+3. Ava:
+https://ojalaeigo-cmyk.github.io/kogut-hti/StarKing_MAIN_FINAL/
+
+Sees:
+- EU keelevalik + Ukraina keel;
+- vene ja valgevene keelt ei ole;
+- vaikimisi English;
+- 30 levelit;
+- bossid;
+- laeva all shield bar;
+- punased võtavad enne shieldi, mitte kohe elusid;
+- iga 5. täht taastab shieldi ja suurendab max shieldi;
+- Screen Always On.
