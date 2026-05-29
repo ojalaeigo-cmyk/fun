@@ -1,8 +1,8 @@
 {
   "name": "Star King MAIN FINAL",
   "short_name": "Star King",
-  "description": "Star King main final with EU languages, 30 levels and ship shield bar.",
-  "start_url": "./?mainfinal=1",
+  "description": "Star King main final with EU languages, shield bar and sound effects.",
+  "start_url": "./?mainfinalsound=1",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",

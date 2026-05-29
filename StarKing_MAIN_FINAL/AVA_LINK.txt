@@ -1,11 +1,15 @@
-STAR KING MAIN FINAL
+STAR KING MAIN FINAL + SOUND
 
 See on eraldi Star King põhiversioon, mitte LOVE MODE.
 
 GitHub:
 1. Paki ZIP lahti.
-2. Lae terve kaust StarKing_MAIN_FINAL repo kogut-hti alla.
-3. Ava:
+2. Lae terve kaust StarKing_MAIN_FINAL repo alla.
+
+Kui kasutad uut repo nime fun:
+https://ojalaeigo-cmyk.github.io/fun/StarKing_MAIN_FINAL/
+
+Kui kasutad vana kogut-hti repot:
 https://ojalaeigo-cmyk.github.io/kogut-hti/StarKing_MAIN_FINAL/
 
 Sees:
@@ -17,4 +21,6 @@ Sees:
 - laeva all shield bar;
 - punased võtavad enne shieldi, mitte kohe elusid;
 - iga 5. täht taastab shieldi ja suurendab max shieldi;
-- Screen Always On.
+- iga 100 punkti järel boonuskast;
+- Screen Always On;
+- heli tagasi: tähe korjamine, pihta saamine, shield, boonus ja boss.
