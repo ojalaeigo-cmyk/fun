@@ -1,26 +1,19 @@
-STAR KING MAIN FINAL + SOUND
+STAR KING MAIN FINAL - FAST LEVELS + BOSS SHOOTING
 
-See on eraldi Star King põhiversioon, mitte LOVE MODE.
+Muudatused:
+- 30 levelit jääb paika.
+- Levelite kestvus on kiirendatud:
+  * 1 täht = 5 punkti
+  * Level 1 lõpeb 100 punkti peal ehk umbes 20 tähega
+  * järgmised levelid lähevad punktidega sujuvalt edasi, aga ei veni lõputult
+- Iga leveli lõpus on boss.
+- Boss tulistab nüüd laeva.
+- Laev tulistab bossi vastu automaatselt.
+- Bossi kuulid võtavad enne shieldi maha, mitte kohe elusid.
+- Heli on sees.
 
-GitHub:
-1. Paki ZIP lahti.
-2. Lae terve kaust StarKing_MAIN_FINAL repo alla.
-
-Kui kasutad uut repo nime fun:
+Uues repo fun kaustas:
 https://ojalaeigo-cmyk.github.io/fun/StarKing_MAIN_FINAL/
 
-Kui kasutad vana kogut-hti repot:
-https://ojalaeigo-cmyk.github.io/kogut-hti/StarKing_MAIN_FINAL/
-
-Sees:
-- EU keelevalik + Ukraina keel;
-- vene ja valgevene keelt ei ole;
-- vaikimisi English;
-- 30 levelit;
-- bossid;
-- laeva all shield bar;
-- punased võtavad enne shieldi, mitte kohe elusid;
-- iga 5. täht taastab shieldi ja suurendab max shieldi;
-- iga 100 punkti järel boonuskast;
-- Screen Always On;
-- heli tagasi: tähe korjamine, pihta saamine, shield, boonus ja boss.
+Cache'i vältimiseks:
+https://ojalaeigo-cmyk.github.io/fun/StarKing_MAIN_FINAL/?fastbossfight=1
